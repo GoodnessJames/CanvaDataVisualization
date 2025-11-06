@@ -8,8 +8,8 @@
 
 * In real-world business situations — like **choosing a vendor** or **introducing a new policy** — **data visualization directly influences decisions.**
 * Strong visualizations have **clarity, visual logic, reduced density,** and a **decision focus.**
-* Bad slides usually fail because they create **high cognitive load, contain too much text,** and use **misleading visuals** that distract instead of inform.
-* Great slides focus on **what supports decision-making**, not decoration. They make insights clear and easy to act on.
+* Bad visuals usually fail because they create **high cognitive load, contain too much text,** and use **misleading visuals** that distract instead of inform.
+* Great visuals focus on **what supports decision-making**, not decoration. They make insights clear and easy to act on.
 * **Design isn’t decoration — it’s direction.** Every design element (color, animation, image) should move the message forward.
 * **Less is more.** Clean, simple visuals communicate confidence.
 * **Color rules:** stick to one main color and one secondary color. Use them **sparingly, intentionally, and consistently.**
@@ -19,7 +19,7 @@
 
 ---
 
-## 💡 Discoveries That Changed the Game
+## 💡 Discoveries 
 
 * **Highlight outcomes, not processes.** People care about results, not the long journey to the insight.
 * **Simplicity beats density.** Short, high-contrast visuals with minimal text drive points home faster.
@@ -39,7 +39,7 @@
 
 ---
 
-## 🧩 5 Quick Fixes for Better Decks
+## 🧩 5 Quick Fixes for Better Presentation Decks
 
 1. Start with a basic text outline before designing.
 2. Time your slides — **1 slide = 30–60 seconds max.**
@@ -49,10 +49,8 @@
 
 ---
 
-## ✨ Bonus Thought
+## ✨ Key Takeaway
 
-Let your story shine — and be yourself. That’s what they really want.
+I learned that people are very much interested in my story. Showing up with my whole being and personality  
+makes the presentation not only land but stick. That's what gets people to connect.
 
----
-
-Would you like me to **apply this exact balance and formatting** to all your future entries (clean, original, with mild humor like this)?
