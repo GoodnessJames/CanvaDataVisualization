@@ -1,4 +1,4 @@
-# Day 0: Decision-Making Through Data Visualization
+# Day 1: Decision-Making Through Data Visualization
 
 **Date:** November 3, 2025
 
@@ -53,4 +53,5 @@
 
 I learned that people are very much interested in my story. Showing up with my whole being and personality  
 makes the presentation not only land but stick. That's what gets people to connect.
+
 
