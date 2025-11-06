@@ -7,8 +7,8 @@
 ### 🎨 *Yeah, I Did That!*
 <img width="1600" height="896" alt="Three Products  One Device" src="https://github.com/user-attachments/assets/471f6707-4880-48a0-adb7-4d13fd67da84" />
 
-**No Spoilers, I promise 😅:**
-• Today was all about *doing the thing* — I built my **first visual story in Canva using a metaphor I picked!**
+**No Spoilers, I promise 😅:**  
+• Today was all about *doing the thing* — I built my **first visual story in Canva using a metaphor I picked!**  
 • It wasn’t just about clicking templates and dragging shapes — it was about bringing everything from this week to life:  
 clarity, simplicity, and purpose-driven design.  
 • Honestly? Seeing the final output made me go, *“Yeah, I did that. Bet you I did!”* 💅
