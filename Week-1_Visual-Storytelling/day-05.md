@@ -6,9 +6,9 @@
 
 Pretending to be Steve Jobs for a few minutes, lol.
 
-Here's how I'd present the slide in the keynote speech if I were Steve Jobs back in 2007.  
+Here's how I'd present the keynote speech in ONE single slide if I were Steve Jobs back in 2007.  
 I couldn't sit with the idea of using the image of the iPhone as at 2007. 😭  
-No apololgies. 😅  
+No apologies. 😅  
 <img width="1280" height="1440" alt="Storytelling_Slide" src="https://github.com/user-attachments/assets/cb261ac7-f621-47c8-9bca-1732d8a5ac71" />
 
 
