@@ -1,5 +1,8 @@
-## Day 5 – Visual Hierarchy
+# Day 5 – Visual Hierarchy
+
 **Date:** November 7, 2025
+
+---
 
 Pretending to be Steve Jobs for a few minutes, lol.
 
