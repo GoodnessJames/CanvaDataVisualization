@@ -27,8 +27,10 @@ It’s a mix of design thinking, data visuals, and experiments with AI.
 
 ## ✨ Why This Exists
 
-Because learning I'm obsessed with documenting my career journey.  
-Bonus? This keeps me accountabe.    
+Because I'm obsessed with documenting my career journey. 
+
+Bonus? This keeps me accountabe.  
+
 And maybe, it’ll help someone else figure out how to turn insights into visuals that *actually* tell a story.  
 
 ---
